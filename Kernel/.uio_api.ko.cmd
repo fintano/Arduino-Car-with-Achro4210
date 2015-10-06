@@ -1,0 +1,1 @@
+cmd_/root/Downloads/final/uio_api.ko := /opt/toolchains/arm-2009q1/bin/arm-none-linux-gnueabi-ld -EL -r  -T /root/Downloads/HW2/2week_1/kernel/scripts/module-common.lds --build-id -o /root/Downloads/final/uio_api.ko /root/Downloads/final/uio_api.o /root/Downloads/final/uio_api.mod.o
